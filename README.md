@@ -1,0 +1,2 @@
+# -Comprehensive-JDBC-Operations-CRUD-Transactions-Stored-Procedures-and-Batch-Processing-in-Java-
+This code demonstrates Java JDBC operations with MySQL, including CRUD (Create, Read, Update, Delete), calling stored procedures, handling transactions, and batch processing. It uses Statement, PreparedStatement, and CallableStatement to execute queries, showcasing best practices in database interaction and error handling.
